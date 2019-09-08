@@ -1,2 +1,2 @@
-def Colors_array ["red", "Orange", "Yellow", "green", "blue", "indigo"]
-  
+def Using_push ["red", "Orange", "Yellow", "green", "blue", "indigo"]
+  using_push.push
